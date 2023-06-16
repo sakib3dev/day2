@@ -1,0 +1,310 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.header {
+    width: 1463px;
+    height: 124px;
+    background: black;
+    margin: 0 auto;
+}
+
+.HD_Row_One {
+    width: 1463px;
+    height: 72px;
+    background: white;
+}
+
+.HD_Row_two {
+    width: 1463px;
+    height: 52px;
+    background: white;
+}
+
+.HD_Row_One_col1 {
+    width: 517px;
+    height: 52px;
+    background: white;
+    float: left;
+}
+
+.HD_Row_One_col1 img {
+
+    padding-top: 14px;
+}
+
+.HD_Row_One_col2 {
+    width: 332px;
+    height: 52px;
+    background: white;
+    float: left;
+}
+
+.HD_Row_One_col2 img {
+    padding-left: 16px;
+}
+
+.HD_Row_One_col3 {
+    width: 517px;
+    height: 52px;
+    background: white;
+    float: left;
+}
+
+.HD_Row_One_col3 img {
+    padding-left: 217px;
+    padding-top: 8px;
+}
+
+.HD_Row_two img {
+    padding-left: 118px;
+}
+
+
+
+
+.main {
+    height: 769.41px;
+    width: 1463px;
+    margin: 0 auto;
+    background: white;
+}
+
+.Head {
+    height: 90px;
+    width: 1463px;
+    background: white;
+}
+
+.Head img {
+    padding-left: 14px;
+    padding-top: 0%;
+}
+
+.main_col_1 {
+    height: 428.75px;
+    width: 341.5px;
+    background: white;
+    float: left;
+}
+
+.main_col_2 {
+    height: 428.75px;
+    width: 341.5px;
+    background: white;
+    float: left;
+}
+
+.main_col_3 {
+    height: 428.75px;
+    width: 341.5px;
+    background: white;
+    float: left;
+}
+
+.main_col_4 {
+    height: 428.75px;
+    width: 341.5px;
+    background: white;
+    float: left;
+}
+
+.main_col_1-1 {
+    height: 174.09px;
+    width: 309.5px;
+    background: white;
+}
+
+.main_col_1-2 {
+    height: 226.66px;
+    width: 309.5px;
+
+}
+
+.h3title {
+    height: 96px;
+    width: 299.5px;
+
+}
+
+.htitle {
+    height: 103px;
+    width: 299.5px;
+
+}
+
+.htitle img {
+    padding-top: 15px;
+}
+
+.main_col_2_1 {
+    height: 174.09px;
+    width: 341.5px;
+    background: white;
+}
+
+.img_2 img {
+    padding-top: 14px;
+}
+
+
+.main_col_3_1 {
+    height: 174.09px;
+    width: 341.5px;
+    background: white;
+}
+
+.main_col_3_2 {
+    height: 226.66px;
+    width: 341.5px;
+    background: white;
+}
+
+.col_3_2_img_2 img {
+    padding-top: 14px;
+}
+
+
+.mai_col_4_1 {
+    height: 174.09px;
+    width: 341.5px;
+    background: white;
+}
+
+.main_col_4_2 {
+    height: 226.66px;
+    width: 341.5px;
+    background: rebeccapurple;
+}
+
+.col_4_2_img_2 img {
+    padding-top: 14px;
+
+}
+
+
+.col_small_1 {
+    height: 210.66px;
+    width: 341.5px;
+    background: white;
+    float: left;
+}
+
+.col_small_2 {
+    height: 210.66px;
+    width: 341.5px;
+    background: white;
+    float: left;
+}
+
+.col_small_3 {
+    height: 210.66px;
+    width: 341.5px;
+    background: white;
+    float: left;
+}
+
+.col_small_4 {
+    height: 210.66px;
+    width: 341.5px;
+    background: white;
+    float: left;
+}
+
+
+.newdiv {
+    height: 2900px;
+    width: 1463px;
+    background: white;
+}
+
+.newdiv_col_1 {
+    height: 2244.69px;
+    width: 1024.5px;
+    background: white;
+    float: left;
+}
+
+.newdiv_col_2 {
+    height: 2244.69px;
+    width: 341.5px;
+    background: white;
+    float: left;
+}
+
+
+
+/* <!-- newdiv_col_1 start here  --> */
+
+.newdiv_col_1_row_1 {
+    height: 208.5px;
+    width: 992.5px;
+    background: white;
+}
+.newdiv_col_1_row_2 {
+    height: 208.5px;
+    width: 992.5px;
+    background: greenyellow;
+}
+.newdiv_col_1_row_3 {
+    height: 208.5px;
+    width: 992.5px;
+    background: white;
+}
+.newdiv_col_1_row_4 {
+    height: 208.5px;
+    width: 992.5px;
+    background: white;
+}
+.newdiv_col_1_row_5 {
+    height: 208.5px;
+    width: 992.5px;
+    background: white;
+}
+.newdiv_col_1_row_6 {
+    height: 208.5px;
+    width: 992.5px;
+    background: white;
+}
+.newdiv_col_1_row_7 {
+    height: 208.5px;
+    width: 992.5px;
+    background: white;
+}
+.newdiv_col_1_row_8 {
+    height: 208.5px;
+    width: 992.5px;
+    background: white;
+}
+.newdiv_col_1_row_9 {
+    height: 208.5px;
+    width: 992.5px;
+    background: white;
+}
+.newdiv_col_1_row_10 {
+    height: 208.5px;
+    width: 992.5px;
+    background: white;
+}
+.newdiv_col_1_row_10 {
+    height: 200px;
+    width: 992.5px;
+    background: white;
+}
+
+
+/* <!-- newdiv_col_1 end here  -->  */
+
+.msg{
+    height: 20px;
+    width: 1443px;
+    padding: 10px;
+    background: #000000;
+}
+.endnig{
+    height: 380px;
+    width: 1463px;
+    padding: 64px 0px 48px;
+    background: #000000;
+}
